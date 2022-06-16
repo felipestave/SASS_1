@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+$font-family-sans-serif: 'Playfair Display', serif;
+$primary: rgba(255,255,255,1);
+.imagen__hero{
+    z-index: -1;
+    width: 40%;
+}
+
+@import "../node_modules/bootstrap/scss/bootstrap";
